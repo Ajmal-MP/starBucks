@@ -1,0 +1,268 @@
+body {
+  margin: 0%;
+  overflow-x: hidden;
+}
+h4 {
+  color: #3d3935;
+  font-size: 16.8px;
+  font-weight: 700;
+}
+
+.smallHead {
+  width: 100%;
+  height: 10px;
+  background-color: rgb(0, 99, 65);
+}
+header {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  width: 100%;
+  height: 165px;
+  background-color: rgb(247, 247, 247);
+}
+.mainHeader {
+  height: 57.57%;
+}
+.logo {
+  background: url(https://www.starbucks.in/media/logo_tcm87-366_w1024_n.png);
+  float: left;
+  width: 62px;
+  height: 62px;
+  margin-left: 42px;
+  margin-top: 20px;
+}
+.location {
+  float: right;
+  height: 24px;
+  width: 130px;
+  margin-right: 42px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+.locationImg {
+  width: 25px;
+  height: 24px;
+  background: url(./image/location.png);
+  background-size: cover;
+}
+.locationNote {
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(91, 89, 89);
+  margin-left: 10px;
+}
+.menu {
+  width: 100%;
+  height: 42.43%;
+  margin-left: 41px;
+  color: rgb(36, 34, 33);
+  font-size: 14px;
+  font-weight: 400;
+}
+.menu1 {
+  display: flex;
+  height: 50%;
+}
+button {
+  letter-spacing: 2.78px;
+  background-color: inherit;
+  border: none;
+  padding: 8px;
+  line-height: 15px;
+}
+button:hover {
+  background-color: rgb(36, 34, 33);
+  color: #ffff;
+}
+.image1 {
+  background: url(./image/image1.jpg);
+  width: 100%;
+  height: 560px;
+  background-position: center;
+}
+.image2 {
+  width: 100%;
+  height: 560px;
+  background: url("./image/image2.jpg");
+  background-position: center;
+}
+.image3 {
+  width: 100%;
+  height: 516px;
+  background: url(./image/image3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.image4 {
+  width: 100%;
+  height: 516px;
+  background: url(./image/image4.png);
+  background-position: center;
+}
+.image5 {
+  width: 100%;
+  height: 516px;
+  background: url(./image/image5.png);
+  background-position: center;
+}
+.image6 {
+  width: 100%;
+  height: 516px;
+  background: url(./image/image6.png);
+  background-position: center;
+}
+.image7 {
+  width: 100%;
+  height: 516px;
+  background: url(./image/image7.jpg);
+  background-position: center;
+}
+.image8 {
+  width: 50%;
+  height: 516px;
+}
+.image8Box {
+  background: url("./image/image8.png");
+  background-repeat: no-repeat;
+  width: 509.708px;
+  height: 375px;
+  margin-top: 75px;
+  margin-left: 75px;
+}
+.commentbox {
+  width: 50%;
+  height: 516px;
+}
+.headline {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 200px;
+  margin-left: 70px;
+}
+.para {
+  font-family: "Crete Round", serif;
+  font-size: 17px;
+  font-weight: 400;
+  margin-left: 70px;
+  margin-top: 33px;
+}
+.image9 {
+  margin-left: 217px;
+  width: 50%;
+  height: 516px;
+}
+.image9Box {
+  background: url("./image/image9.png");
+  background-repeat: no-repeat;
+  width: 509.708px;
+  height: 375px;
+  margin-top: 75px;
+  margin-left: 75px;
+}
+footer {
+  height: 450px;
+  width: 100%;
+  float: left;
+}
+.footHead {
+  height: 115px;
+  width: 100%;
+  background-color: rgb(240, 240, 240);
+}
+.icon {
+  margin-left: 35px;
+  margin-top: 36px;
+  width: 150px;
+  height: 40px;
+  float: left;
+  display: flex;
+}
+a {
+  text-decoration: none;
+  color: #000000;
+}
+.facebook {
+  height: 100%;
+  width: 33.333%;
+  font-size: 40px;
+}
+.twitter {
+  height: 100%;
+  width: 33.33%;
+  font-size: 40px;
+}
+.instegram {
+  height: 100%;
+  width: 33.33%;
+  font-size: 40px;
+}
+
+.mainFoot {
+  background-color: rgb(240, 240, 240);
+  display: flex;
+  margin-top: 2px;
+  width: 100%;
+  height: 325px;
+}
+.menuComments {
+  width: 50%;
+  height: 100%;
+}
+.ABOUTUS {
+  height: 70%;
+  font-size: 14px;
+  color: rgb(56, 47, 45);
+  font-weight: 400;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  display: flex;
+}
+.block1 {
+  width: 15%;
+  height: 100px;
+  margin-left: 30px;
+  margin-top: 60px;
+}
+.block2 {
+  width: 32%;
+  height: 100px;
+  margin-left: 110px;
+  margin-top: 60px;
+}
+.block3 {
+  height: 100px;
+  width: 20%;
+  margin-top: 60px;
+}
+#terms {
+  height: 30%;
+}
+.terms {
+  font-size: 1em;
+  color: #666;
+  margin-left: 40px;
+  display: flex;
+}
+.mark {
+  color: rgb(102, 102, 102);
+  font-size: 14px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+.starbucksImgBox {
+  width: 50%;
+  height: 100%;
+}
+.starbuckImg {
+  background: url("./image/starBucks.png");
+  background-size: cover;
+  width: 25px;
+  height: 145px;
+  float: right;
+  margin-top: 43px;
+  margin-right: 35px;
+}
+.bottom {
+  height: 8px;
+  background-color: black;
+}
